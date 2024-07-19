@@ -1,0 +1,6 @@
+@MerchantDashboard_HostAddress = http://localhost:5134
+
+GET {{MerchantDashboard_HostAddress}}/MerchantDashboard/
+Accept: application/json
+
+###
